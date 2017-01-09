@@ -1,0 +1,2 @@
+var Emp={name:"Tanuja",age:"21",sal:"20,000",add:{city:"Mysore",state:"Karnataka",pincode:"570006"}};
+console.log("Name="+Emp['name']+"\nAge="+Emp['age']+"\nSalary="+Emp['sal']+"\nCity="+Emp.add.city+" \nState="+Emp.add.state+"\nPincode="+Emp.add.pincode);
